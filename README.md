@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Createaneww(Parth Patel)
+- 👋 Hi, I’m @Createaneww(Parth Patel a CSE 2nd student)
 - 👀 I’m interested in Devops and webD
 - 🌱 I’m currently learning WebD and Dsa
 - 💞️ I’m looking to collaborate on? hahaha! here my linkedin
