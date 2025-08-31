@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Createaneww(Parth Patel a CSE 2nd student)<br>- 👀 I’m interested in Devops and webD<br>- 🌱 I’m currently learning WebD and Dsa<br>- 💞️ I’m looking to collaborate on? hahaha! here my linkedin<br>- 📫 How to reach me : https://www.linkedin.com/in/parth-patel-vips<br>- 😄 Pronouns:He/him<br>- ⚡ Fun fact: code when needed otherwise solve with 👀
+-👋 Hi, I’m @Createaneww(Parth Patel a CSE 2nd student)<br>- 👀 I’m interested in Devops and webD<br>- 🌱 I’m currently learning WebD and Dsa<br>- 💞️ I’m looking to collaborate on? hahaha! here my linkedin<br>- 📫 How to reach me : https://www.linkedin.com/in/parth-patel-vips<br>- 😄 Pronouns:He/him<br>- ⚡ Fun fact: code when needed otherwise solve with 👀
 
 
 
