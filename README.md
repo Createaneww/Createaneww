@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @Createaneww(Parth Patel a CSE 3rd yr student)<br>- 👀 I’m interested in Dsa and webD<br>- 🌱 I’m currently learning WebD and Dsa<br>- 💞️ I’m looking to collaborate on? hahaha! here my linkedin<br>- 📫 How to reach me : https://www.linkedin.com/in/parth-patel-vips<br>- 😄 Pronouns:He/him<br>- ⚡ Fun fact: code when needed otherwise solve with 👀
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-patel-vips/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Creating_Parth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:creatinganewway@gmail.com) 
 
